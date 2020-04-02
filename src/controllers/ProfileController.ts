@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import connection from '../database/Connection';
+import connection from '../database/connection';
 
 export class ProfileController {
     
